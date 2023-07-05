@@ -31,7 +31,7 @@ const slides = [
   {
     key: 4,
     title: 'Conquiste',
-    text: 'Alcançe sua independência gerenciando você mesmo todo o investimento da obra.',
+    text: 'Alcançe sua independência gerenciando você mesmo todo o investimento da Obra.',
     image: require('./src/assets/conquistar.png')
   },
 ];
