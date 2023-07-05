@@ -4,7 +4,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import Routes from './src/routes';
 import AppIntroSlider from 'react-native-app-intro-slider';
-import { Image } from 'react-native';
+import { Image, StyleSheet } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 
 const Stack = createStackNavigator();
